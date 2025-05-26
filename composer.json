@@ -1,0 +1,15 @@
+{
+    "name": "gypn/linger",
+    "description": "A PHP lightweight client framework",
+    "keywords": [
+        "linger",
+        "framework"
+    ],
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.2"
+    },
+    "autoload": {}
+}
