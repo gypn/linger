@@ -1,1 +1,15 @@
 /vendor/
+
+# .env
+.env
+
+# data目录
+/data
+
+# 上传目录
+/upload
+
+# 日志 & 备份
+/logs
+*.log
+*.bak
